@@ -7,3 +7,9 @@ jamon
 jugo
 aceite
 
+
+
+## frutas
+pera
+piña
+manzana
