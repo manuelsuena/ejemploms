@@ -9,7 +9,7 @@ aceite
 
 
 
-## frutas
+## verduras
 pera
 piña
 manzana
