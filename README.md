@@ -4,3 +4,5 @@ agua
 leche
 pan 
 jamon
+jugo
+aceite
